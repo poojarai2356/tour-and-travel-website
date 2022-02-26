@@ -1,4 +1,4 @@
-# tour-and-travel-website
+# Tour-and-Travel Agency-website
 
 ### create a complete responsive travel agency website design using html css and javascript.
 
