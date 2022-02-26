@@ -29,6 +29,8 @@ the main feature of this website are:
 ✔ responsive footer section using flexbox.
 
 
+Important link used in this projects:
+
 swiper.js
 https://swiperjs.com/
 
