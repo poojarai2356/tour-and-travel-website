@@ -27,3 +27,16 @@ the main feature of this website are:
 ✔ responsive brand section with touch slider.
 
 ✔ responsive footer section using flexbox.
+
+
+swiper.js
+https://swiperjs.com/
+
+font awesome cdn link:
+https://cdnjs.com/libraries/font-awesome
+
+google fonts:
+https://fonts.google.com/specimen/Nunito?query=nunito
+
+images are from freepik:
+https://www.freepik.com/home
