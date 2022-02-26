@@ -1,6 +1,6 @@
 # tour-and-travel-website
 
-create a complete responsive travel agency website design using html css and javascript.
+### create a complete responsive travel agency website design using html css and javascript.
 
 the main feature of this website are:
 
